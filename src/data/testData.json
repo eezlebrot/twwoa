@@ -1,0 +1,64 @@
+{
+  "news":[
+    {
+      "expires":"7-1-2017",
+      "title":"2017 Fundraiser",
+      "body":"Our goal is to raise $45,000 this year to continue our award-winning programs in NC, SC, NY and IN; to offer free writing classes to young people in Western North Carolina at area libraries; and to give workshop scholarships to low-income writers.<br><br>Only your tax-deductible donation will make these worthy goals possible! A $50 donation will establish you as a Friend of the Arts, and help us towards our fundraising goal. A donation of $75 or more includes a year's membership, which entitles you to discounts on all workshops and contests.<br><br>Click <a>here</a> to donate or to join The Writers' Workshop. As always, any amount would be greatly appreciated!"
+    },
+    {
+      "title":"May 18-21, 2017:  Folly Beach Writers' Retreat",
+      "body": "Join us for our bi-annual Writers’ Retreat at Folly Beach, near Charleston, SC - an ideal place to relax, write and review each other’s work. Participants will engage in a total of 6 sessions, led by Workshop instructors. Carpooling from Asheville is available. The all-inclusive rate (except for meals) is $495 for a private room, or $450 shared. The commuter rate is $55 per day.\n\nTo register, please contact writersw@gmail.com, or call 828-254-8111."
+    }
+  ],
+
+  "workshops":[
+    {
+      "startDate": "June 3, 2017 10:00:00",
+      "endDate": "June 3, 2017 16:00:00",
+      "title": "Writing the Novel",
+      "instructor": "Karen Ackerson",
+      "location": "The Writers' Workshop",
+      "description": "The class will learn the key aspects to any good novel – creating unforgettable characters, developing conflict, tension and honest dialogue, and describing a sense of place. Readings of award-winning literary novelists will serve as examples of fine writing. Editing techniques will also be taught, including eliminating unnecessary details, building tension, and fine-tuning dialogue and descriptions. Participants may bring a synopsis and five pages (double-spaced) to the class for review.",
+      "cost": "$75/$70 Workshop Members"
+    },
+
+    {
+      "startDate": "June 10, 2017 10:00:00",
+      "endDate": "June 10, 2017 16:00:00",
+      "title": "How to Self-Publish and Promote your Book",
+      "instructor": "Peggy DeKay",
+      "location": "The Writers' Workshop",
+      "description": "The class will learn the key aspects to any good novel – creating unforgettable characters, developing conflict, tension and honest dialogue, and describing a sense of place. Readings of award-winning literary novelists will serve as examples of fine writing. Editing techniques will also be taught, including eliminating unnecessary details, building tension, and fine-tuning dialogue and descriptions. Participants may bring a synopsis and five pages (double-spaced) to the class for review.",
+      "cost": "$75/$70 Workshop Members"
+    },
+
+    {
+      "startDate": "June 24, 2017 10:00:00",
+      "endDate": "June 24, 2017 16:00:00",
+      "title": "Exploring Your Options",
+      "instructor": "Richard Krawiec",
+      "location": "The Writers' Workshop",
+      "description": "The class will learn the key aspects to any good novel – creating unforgettable characters, developing conflict, tension and honest dialogue, and describing a sense of place. Readings of award-winning literary novelists will serve as examples of fine writing. Editing techniques will also be taught, including eliminating unnecessary details, building tension, and fine-tuning dialogue and descriptions. Participants may bring a synopsis and five pages (double-spaced) to the class for review.",
+      "cost": "$75/$70 Workshop Members"
+    }
+  ],
+ 
+  "events":[
+    {
+      "startDate": "June 4, 2017 16:30",
+      "endDate": "June 4, 2017 19:30",
+      "title": "Annual Summer Celebration!!",
+      "location": "The Writers' Workshop"
+    }
+  ],
+
+  "contests":[
+  ],
+
+  "instructors":[
+    {
+      "name": "Karen Ackerson",
+      "description": "Ackerson is Senior Editor at the Renbourne Editorial Agency, and has edited hundreds of novels and memoirs. She has taught workshops throughout the Southeast for over 20 years."
+    }
+  ]
+}
